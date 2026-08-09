@@ -66,18 +66,4 @@ We warmly welcome contributions to CodesHub! Your help makes this repository a r
 4.  **Push** to the branch: `git push origin my-new-feature`
 5.  Create a **Pull Request**.
 
-We appreciate your contributions! 🚀
 
-## License
-
-This project is licensed under the **GNU General Public License v2.0**. See [LICENSE](LICENSE) for details.
-
----
-
-<div align="center">
-  :handshake: Our Contributors
-  <br>
-  <a href="https://github.com/diwas7777/CodesHub/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=diwas7777/CodesHub" /> :computer:
-  </a>
-</div>
