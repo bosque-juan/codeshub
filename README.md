@@ -23,8 +23,8 @@ Welcome to **CodesHub**! This repository is a diverse collection of code example
 
 CodesHub's main advantages include:
 
-*   **Wide Variety of Languages:** Code in numerous programming languages, making it a versatile resource.
-*   **Breadth of Examples:** 
+   **Wide Variety of Languages:** Code in numerous programming languages, making it a versatile resource.
+   **Breadth of Examples:** 
     *   Algorithms (sorting, searching, dynamic programming)
     *   Data Structures (lists, trees, graphs, etc.)
     *   Small utility programs
