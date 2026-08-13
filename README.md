@@ -58,12 +58,5 @@ We warmly welcome contributions to CodesHub! Your help makes this repository a r
     *   Be respectful and considerate.
     *   Avoid spamming or vandalizing content.
 
-### Steps to Contribute
-
-1.  **Fork** the repository.
-2.  Create a **new branch**: `git checkout -b my-new-feature`
-3.  Make your changes and **commit**: `git commit -am 'Add some feature'`
-4.  **Push** to the branch: `git push origin my-new-feature`
-5.  Create a **Pull Request**.
 
 
