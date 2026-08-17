@@ -1,5 +1,5 @@
 
-# CodesHub
+# CodesHub(summary)
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&multiline=true&width=250&height=80&lines=CodesHub" />
