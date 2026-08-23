@@ -14,7 +14,7 @@
   <img alt="GitHub forks" src="https://img.shields.io/github/forks/diwas7777/CodesHub">
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/diwas7777/CodesHub">
 </div>
-## project Description
+## New project Description
 
 Welcome to **CodesHub**! This repository is a diverse collection of code examples in various programming languages, designed for learning, exploration, and inspiration. Whether you're a beginner looking to understand basic concepts or an experienced developer seeking examples of algorithms, data structures, or small projects, CodesHub is a valuable resource.
 
